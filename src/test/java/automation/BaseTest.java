@@ -22,6 +22,7 @@ public class BaseTest extends LoadableComponent<BaseTest> {
     public static WebDriverWait driverWait;
     public static String  test;
     public static String  test1;
+    public static String  test3;
 
     public static final String platform = System.getProperty("platform", Default_Platform);
 
