@@ -21,6 +21,7 @@ public class BaseTest extends LoadableComponent<BaseTest> {
     public static final String Default_Platform = "iOS";
     public static WebDriverWait driverWait;
     public static String  test;
+    public static String  test1;
 
     public static final String platform = System.getProperty("platform", Default_Platform);
 
